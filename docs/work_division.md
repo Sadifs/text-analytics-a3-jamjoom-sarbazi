@@ -15,5 +15,5 @@
 - Contribution to final interpretation
 
 ## Collaboration
-- Discussed model design and evaluation approach together
+- Discussed data, model design and evaluation approach together
 - Shared feedback on topic quality and interpretation strategy
