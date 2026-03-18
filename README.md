@@ -1,3 +1,5 @@
+# Assignment 3 — Topic Modeling of Disneyland Reviews
+---
 ## Overview
 This project applies topic modeling to Disneyland reviews across three locations:
 - California
