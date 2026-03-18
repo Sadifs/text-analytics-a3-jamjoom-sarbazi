@@ -16,4 +16,4 @@
 - Final organization of results specific to the assignment
 
 ## Verification
-All AI-generated suggestions were reviewed, tested, and modified as needed to ensure correctness and alignment with assignment requirements.
+All AI-generated suggestions were reviewed, tested and modified as needed to ensure correctness and alignment with assignment requirements.
