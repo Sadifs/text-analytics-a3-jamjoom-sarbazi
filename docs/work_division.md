@@ -27,6 +27,7 @@
 
 ## Collaboration Log
 - Week 1: Agreed on dataset, group split and modeling approach
+- Week 2:
 
 ## Hours (Approximate)
 - Student A:
