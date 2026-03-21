@@ -15,7 +15,7 @@
 - NMF topic modeling implementation (04_model2 notebook)
 - Model evaluation and comparison with LDA
 - Visualization for NMF results
-- Topic interpretation — Topics 6–10 per location
+- Topic interpretation — Topics 6–10 per location (05_interpretation notebook)
 - Results section of shared report
 
 ## Shared Responsibilities
