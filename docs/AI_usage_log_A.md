@@ -1,10 +1,10 @@
 # AI Usage Log — Student A (Sadaf Sarbazi)
 
 ## Tools Used
-- Claude (Anthropic) — claude.ai
+- Claude (Anthropic)
 - ChatGPT (OpenAI)
 
-## How AI Was Used (Permitted)
+## How AI Was Used 
 - Debugging Python code (LDA, CountVectorizer, coherence scoring, pyLDAvis)
 - Structuring Jupyter notebooks (cell organization, section headers, comments)
 - Suggesting preprocessing pipeline steps (tokenization, stopword removal, lemmatization)
