@@ -30,5 +30,5 @@
 - Week 2: Worked independently on assigned tasks — Student A completed EDA, preprocessing, LDA modeling and topic interpretation (Topics 1–5); Student B completed NMF modeling and topic interpretation (Topics 6–10).
 
 ## Hours (Approximate)
-- Student A: ~20 hours
+- Student A: ~25-30 hours
 - Student B: 
