@@ -26,9 +26,9 @@
 - Introduction and conclusion of report
 
 ## Collaboration Log
-- Week 1: Agreed on dataset, group split and modeling approach
-- Week 2:
+- Week 1: Agreed on dataset (Disneyland Reviews, Kaggle), defined three location groups (California, Paris, Hong Kong), split modeling responsibilities (Student A: LDA, Student B: NMF), agreed on k selection approach and pipeline design
+- Week 2: Worked independently on assigned tasks — Student A completed EDA, preprocessing, LDA modeling and topic interpretation (Topics 1–5); Student B completed NMF modeling and topic interpretation (Topics 6–10).
 
 ## Hours (Approximate)
-- Student A:
+- Student A: ~20 hours
 - Student B: 
