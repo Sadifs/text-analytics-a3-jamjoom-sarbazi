@@ -22,7 +22,7 @@ Time management was also a challenge. This assignment has many moving parts (EDA
 
 ---
 
-## Peer Evaluation — 
+## Peer Evaluation 
 
 ---
 
